@@ -1,0 +1,16 @@
+.ngu
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+/* inline id class target theo thu tu uu tien la 1234 pham vi anh huong la 4321
+cong thuc tinh width la border right+left padding tuong tu width ::content
+cong thuc tinh height la border top+bottom padding tuong tu height ::content
+box model can chinh khoang cach 
+bao gom content padding border margin
+inline viet truc tiep
+internal viet the style len tren head
+external viet ben ngoai
+web reponsive la phong cach thiet ke sao cho phu hop vs moi thiet bi va trinh duyet\
+bootstrap la famework dc dung de dieu chinh phu hop vs kich thuoc cua man hinh */
+
